@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892116133105",
+    "project_id": "list-sepatu",
+    "storage_bucket": "list-sepatu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892116133105:android:cc13290b39bb2f06c1b550",
+        "android_client_info": {
+          "package_name": "com.example.shoes_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892116133105-anifshj14hoqr213racn8a5eal042rvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARbraxErzK2OuqyD0llmSCFlLmR7iq9C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892116133105-anifshj14hoqr213racn8a5eal042rvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
